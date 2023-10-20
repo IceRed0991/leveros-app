@@ -1,0 +1,8 @@
+{
+  "short_name": "React App",
+  "name": "Leveros Portal Pedido",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFF",
+  "background_color": "#FFF"
+}
